@@ -1,27 +1,17 @@
-# Databases_and_SQL_for_Data_Science-Coursera
+# Databases and SQL for Data Science
 
 ## Description 
-This course teaches a lot of things, since how to run basic queries until modeling databases. 
-What was nice about the learnings, is about the exercises using real data!
+This course from Coursera covers a wide range of topics, from executing basic queries to database modeling. What sets it apart is its emphasis on hands-on learning through real-world data exercises.
 
 ## Topics
--> Statements: CREATE, DELETE, SELECT, INSERT and UPDATE table.
-
--> COUNT, LIMIT, DISTINCT.
-
--> String Patterns, Ranges, Sorting, Grouping.
-
--> Sub-queries and multiple tables(implicit join)
-
--> Database access from Python.
-
--> Analyzing data with Python.
-
--> JOIN(inner, outer).
-
--> Working with real-word datasets.
-
--> Relational databases concepts.
-
--> Relational Model Constraints.
+- Data Definition Language (DDL): CREATE
+- Data Manipulation Language (DML): DELETE, INSERT and UPDATE
+- Data Query Language (DQL): SELECT
+- SQL clauses: COUNT, LIMIT, DISTINCT, JOIN
+- Sub-queries and CTEs
+- Database access using Python
+- Analyzing data with Python
+- Working with real-word datasets
+- Relational databases concepts
+- Relational Model Constraints
  
